@@ -1,0 +1,78 @@
+body{
+    font-family: 'Poppins', sans-serif;}
+
+ul {
+    padding: 0;
+}
+li {
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+.hero-heading {
+    font-size: 72px;
+    line-height: 84px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    margin-bottom: 27px;
+}
+
+.hero-text {
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
+.Navbar {
+    background-image: url(./images/Rectangle\ 9.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 108vh;
+
+}
+#one {
+    margin: 20px;
+    padding: 8px 40px;
+    font: bold 12px/25px Arial, sans-serif;
+    border-radius: 50px;
+}
+.card{
+    border: none;
+}
+
+.br-50 {
+    border-radius: 50px;
+}
+.br-10 {
+    border-radius: 10px;
+}
+
+.border-secondary {
+    border-color: #d8d8d8 !important;
+}
+#pic1{
+    height: 250px;
+width: 390px;
+left: 50px;
+top: 106px;
+border-radius: 0px;
+
+}
+
+.pricing{
+   background-color: #252B42;
+   ;
+}
+.cardHeading{
+    font-weight: 700;
+}
+
+.cardP{
+    font-weight: 100;
+    line-height: 40px;
+    letter-spacing: 0.2px;
+    font-size: 28px;
+    color: #374754;
+    ;
+}
+
